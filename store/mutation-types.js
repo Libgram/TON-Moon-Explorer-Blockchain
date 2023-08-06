@@ -1,0 +1,27 @@
+
+export const SAVE_PROFILE = "SAVE_PROFILE";
+export const SAVE_IS_LOADING_PROFILE = "SAVE_IS_LOADING_PROFILE";
+export const CLEAR_PROFILE = "CLEAR_PROFILE";
+
+export const SAVE_ADDRESS = "SAVE_ADDRESS";
+export const SAVE_IS_LOADING_ADDRESS = "SAVE_IS_LOADING_ADDRESS";
+export const CLEAR_ADDRESS = "CLEAR_ADDRESS";
+
+export const ADD_HISTORY = "ADD_HISTORY";
+export const CLEAR_HISTORY = "CLEAR_HISTORY";
+
+export const SAVE_NFT = "SAVE_NFT";
+export const SAVE_IS_LOADING_NFT = "SAVE_IS_LOADING_NFT";
+export const CLEAR_NFT = "CLEAR_NFT";
+
+export const SAVE_TOKEN = "SAVE_TOKEN";
+export const SAVE_IS_LOADING_TOKEN = "SAVE_IS_LOADING_TOKEN";
+export const CLEAR_TOKEN = "CLEAR_TOKEN";
+
+export const SAVE_USER_INFO = "SAVE_USER_INFO";
+export const SAVE_USER_TOKEN = "SAVE_USER_TOKEN";
+export const DELETE_USER_INFO = "DELETE_USER_INFO";
+
+export const SAVE_SIDEBAR = "SAVE_SIDEBAR";
+
+export const SAVE_POOL_INFO = "SAVE_POOL_INFO";

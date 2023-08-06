@@ -1,0 +1,16 @@
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="100px" height="88.5px" viewBox="0 0 100 88.5" style="enable-background:new 0 0 100 88.5;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<defs>
+</defs>
+<path class="st0" d="M73.5,82.2c0-12.4-4.9-24.3-13.7-33.1c-2.9-2.9-6.2-5.4-9.7-7.4c0,0,0,0,0,0c-10.7,6.2-18.6,16.4-21.8,28.4
+	c-1.1,4-1.6,8.1-1.6,12.1c0,0,0,0,0,0c10.7,6.2,23.5,7.9,35.5,4.7C66.2,85.8,70,84.2,73.5,82.2C73.5,82.2,73.5,82.2,73.5,82.2z"/>
+<ellipse transform="matrix(0.9781 -0.2079 0.2079 0.9781 -3.0109 7.718)" class="st0" cx="35.2" cy="18.2" rx="12.4" ry="18.4"/>
+<ellipse transform="matrix(0.2079 -0.9781 0.9781 0.2079 33.5338 77.7756)" class="st0" cx="64.8" cy="18.2" rx="18.4" ry="12.4"/>
+<ellipse transform="matrix(0.5299 -0.848 0.848 0.5299 3.4936 93.937)" class="st0" cx="86.5" cy="43.8" rx="16.5" ry="12.1"/>
+<ellipse transform="matrix(0.848 -0.5299 0.5299 0.848 -21.1652 13.8225)" class="st0" cx="13.5" cy="43.8" rx="12.1" ry="16.5"/>
+</svg>
